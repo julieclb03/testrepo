@@ -1,0 +1,84 @@
+0
+"
+"
+"<tbody>
+<tr>
+<td>No.</td>
+<td>Language</td>
+<td>Created By</td>
+<td>Average Annual Salary</td>
+<td>Learning Difficulty</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Python</td>
+<td>Guido van Rossum</td>
+<td>$114,383</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Java</td>
+<td>James Gosling</td>
+<td>$101,013</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>3</td>
+<td>R</td>
+<td>Robert Gentleman, Ross Ihaka</td>
+<td>$92,037</td>
+<td>Hard</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Javascript</td>
+<td>Netscape</td>
+<td>$110,981</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Swift</td>
+<td>Apple</td>
+<td>$130,801</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>6</td>
+<td>C++</td>
+<td>Bjarne Stroustrup</td>
+<td>$113,865</td>
+<td>Hard</td>
+</tr>
+<tr>
+<td>7</td>
+<td>C#</td>
+<td>Microsoft</td>
+<td>$88,726</td>
+<td>Hard</td>
+</tr>
+<tr>
+<td>8</td>
+<td>PHP</td>
+<td>Rasmus Lerdorf</td>
+<td>$84,727</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>9</td>
+<td>SQL</td>
+<td>Donald D. Chamberlin, Raymond F. Boyce.</td>
+<td>$84,793</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Go</td>
+<td>Robert Griesemer, Ken Thompson, Rob Pike.</td>
+<td>$94,082</td>
+<td>Difficult</td>
+</tr>
+</tbody>"
+"
+"
